@@ -1,0 +1,14 @@
+.start
+.End {
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+
+.start {
+    background-color: black;
+    color: white;
+}
+
+.End {
+    background-color: yellow;
+}
